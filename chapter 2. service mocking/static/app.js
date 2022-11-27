@@ -1,5 +1,6 @@
 /*
-This file is served using serve package, via command: serve -p 5050 static
+This client-side JS file is served using serve package,
+via command: "serve -p 5050 static" from the parent folder
 server from ../service.js should also be running to fetch mock data
 */
 
