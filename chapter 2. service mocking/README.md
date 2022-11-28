@@ -1,11 +1,7 @@
-Steps to run the app:
+How to run:
 
-Open two terminal windows, both with the current working directory set to project's root folder. 
-In the first terminal window, we'll start our server like so:
-
-    node server.js
-
-When we run this command, the process will remain open and there should be no output.
-In the second terminal window, we'll serve our files:
-
-    serve -p 5050 static
+Open two terminal windows.
+In the first terminal set the current working directory to project folder(chapter2....) and run: 
+    serve -p 5050 static 
+In the second terminal set the current working directory to the mock-srv folder and execute:
+    npm run dev
