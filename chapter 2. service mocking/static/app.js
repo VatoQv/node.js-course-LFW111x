@@ -1,7 +1,7 @@
 /*
 This client-side JS file is served using serve package,
 via command: "serve -p 5050 static" from the parent folder
-server from ../service.js should also be running to fetch mock data
+server from ../mock-srv/app.js should also be running to fetch mock data
 */
 
 const API = 'http://localhost:3000';
